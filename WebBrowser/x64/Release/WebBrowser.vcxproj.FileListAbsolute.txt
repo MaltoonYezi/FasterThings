@@ -1,4 +1,0 @@
-C:\Users\Admin\Desktop\GUI programming\WebBrowser\WebBrowser\x64\Release\WebBrowser.vcxproj.AssemblyReference.cache
-C:\Users\Admin\Desktop\GUI programming\WebBrowser\WebBrowser\x64\Release\WebBrowser.vcxproj.SuggestedBindingRedirects.cache
-C:\Users\Admin\Desktop\GUI programming\WebBrowser\WebBrowser\x64\Release\WebBrowser.MyForm.resources
-C:\Users\Admin\Desktop\GUI programming\WebBrowser\WebBrowser\x64\Release\WebBrowser.vcxproj.GenerateResource.cache
