@@ -13,7 +13,7 @@ The sound of error when hitting enter in the search bar was fixed and is no long
 
 # FasterThings 1.1.0 Update
 Support for Google, Lycos and Yahoo search services has been added. 
-The URL now shows up when iteracting with the browser, unless a specific search string has been made
+The URL now shows up when iteracting with the browser, unless a specific search string has been made.
 The icon was added.
-The code became a little cleaner
+The code became a little cleaner.
 
