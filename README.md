@@ -5,6 +5,8 @@ This is a simple GUI browser, made with Visual C++, WinForms and Visual Studio 2
 
 The browser uses DuckDuckGo.com as its main search engine, but also has Google, Lycos and Yahoo support built in 
 
+The browser is compatible with latest versions of Windows OS (Windows 7, 8, 8.1, 10, 11)
+
 # FasterThings 1.0.1 Update
 The search in the search tab became less buggy, and it has been fixed
 
